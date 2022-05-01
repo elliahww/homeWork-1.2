@@ -1,11 +1,5 @@
 # homeWork-1.2
-пакет com.company;
-
-импорт java.util.Random;
-
-публичный класс Main {
-
-    public static void main(String[] args) {
+         public static void main(String[] args) {
         System.out.println(студент(7, 10));
         System.out.println(студент(15, -30));
         System.out.println(студент(22, 10));
